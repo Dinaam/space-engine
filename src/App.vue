@@ -23,4 +23,12 @@ body {
   color : #FFECD1;
 }
 
+.ta-center{
+  text-align: center;
+}
+
+.margeGauche20{
+  margin-left: 20%;
+}
+
 </style>

@@ -4,16 +4,19 @@
     <h1 class="title">
       Space Engine
     </h1>
+    <latest></latest>
   </div>
 </template>
 
 <script>
 import Navbar from "./Navbar.vue";
+import Latest from "./Latest.vue";
 
 export default {
   name: "Home",
   components: {
     Navbar,
+    Latest
   },
 };
 </script>
